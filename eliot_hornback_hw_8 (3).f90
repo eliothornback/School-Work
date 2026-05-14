@@ -1,4 +1,4 @@
-!Author: Eliot Honrback
+!Author: Eliot Hornback
 !Date: 11/7/25
 !Purpose: Poisson equation charge distribution solution
 !Got a value of 0.0 for q(25,5)
